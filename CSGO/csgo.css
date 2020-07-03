@@ -1,0 +1,46 @@
+body {
+	text-align: center;
+}
+
+.grid-container {
+    display: inline-grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-column-gap: 20px;
+    font-size: 2rem;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.grid-containerSite {
+    display: inline-grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-column-gap: 20px;
+    font-size: 2rem;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.grid-item {
+    align-self: center;
+    justify-self: center;
+    
+}
+
+
+h1{
+     font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+}
+
+p{
+     font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 2rem;
+    color: black;
+    text-decoration: none;
+    height: 2rem
+}
+
+.notes {
+    font-size: .9rem
+}
