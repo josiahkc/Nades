@@ -1,13 +1,13 @@
 body {
 	text-align: center;
+    color: #efefef;
+    background-color: #141414;
 }
 
 .grid-container {
     display: inline-grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-column-gap: 20px;
-    font-size: 2rem;
-    font-family: 'Roboto', sans-serif;
 
 }
 
@@ -15,8 +15,7 @@ body {
     display: inline-grid;
     grid-template-columns: 1fr 1fr 1fr;
     grid-column-gap: 20px;
-    font-size: 2rem;
-    font-family: 'Roboto', sans-serif;
+
 
 }
 
@@ -27,20 +26,26 @@ body {
 }
 
 
-h1{
-     font-family: 'Roboto', sans-serif;
+h1 {
+    font-family: 'Bangers', cursive;
     font-weight: 900;
+    font-size: 3rem;
 }
 
-p{
-     font-family: 'Roboto', sans-serif;
+p {
+    font-family: 'Open Sans', sans-serif;
     font-weight: 300;
     font-size: 2rem;
-    color: black;
+    color: #efefef;
     text-decoration: none;
-    height: 2rem
 }
 
 .notes {
     font-size: .9rem
 }
+
+.nade-title {
+    font-size: 1.7rem;
+}
+
+<iframe width="640" height="360" src="https://medal.tv/clip/27757388/vp9Xpknfv" frameborder="0" allow="autoplay" allowfullscreen></iframe>
