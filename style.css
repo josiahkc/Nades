@@ -32,6 +32,10 @@ h1 {
     font-size: 3rem;
 }
 
+a {
+    text-decoration: none;
+}
+
 p {
     font-family: 'Open Sans', sans-serif;
     font-weight: 300;
@@ -47,5 +51,3 @@ p {
 .nade-title {
     font-size: 1.7rem;
 }
-
-<iframe width="640" height="360" src="https://medal.tv/clip/27757388/vp9Xpknfv" frameborder="0" allow="autoplay" allowfullscreen></iframe>
